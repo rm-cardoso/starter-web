@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and Github together. Bra bra bra bra bra
+This is a simple website project for showing how to use Git and Github together. Bra bra bra bra bra bsadsa 
 
 ## Introduction
 
