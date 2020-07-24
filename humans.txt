@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Pickle		Rickfood		ND
 
 # THANKS
 
